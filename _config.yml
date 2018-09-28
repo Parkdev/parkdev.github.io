@@ -1,14 +1,14 @@
 # Site settings
-title:          Younlab
+title:          Parkdev
 description:    ""
 baseurl:        ""
-url:            "https://younlab.github.io"
+url:            "https://parkdev.github.io"
 
 # Author
 author:
-  name:         Sehyeon Youn
-  url:          https://younlab.github.io
-  email:        dev.younlab@gmail.com
+  name:         Jeeho Park
+  url:          https://parkdev.github.io
+  email:        devpark29@gmail.com
 
 # Build settings
 markdown:       kramdown
