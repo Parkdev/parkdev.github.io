@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL 구문 정리"
+title: "SQL Tutorial 구문 정리"
 date: 2018-10-01
 tag:
 - TIL
