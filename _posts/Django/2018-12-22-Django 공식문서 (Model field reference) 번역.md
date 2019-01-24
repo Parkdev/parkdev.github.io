@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Django Model field reference(공식문서 번역)"
-date: 2018-06-22
+date: 2018-12-22
 tag:
 - Django
 image: "../image/django.png"
@@ -325,4 +325,5 @@ auto_node_add, auto_now 및 default 옵션은 상호 배타적입니다. 이러�
 > **Note**
 >
 > auto_no 및 auto_now_add 옵션은 항상 생성 또는 업데이트 시 [default timezone](https://docs.djangoproject.com/en/2.0/topics/i18n/timezones/#default-current-time-zone) 를 사용합니다. 다른 기능이 필요한 경우, Auto_now 또는 auto_no_adme 을 대신 사용하거나 DateTimed 를 대신 사용하는 대신 사용자가 직접 호출 가능한 기본 값 또는 재지정 **save()**을 사용합니다.
+
 - - - -
